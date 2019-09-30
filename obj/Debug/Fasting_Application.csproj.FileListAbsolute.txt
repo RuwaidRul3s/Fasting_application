@@ -1,0 +1,11 @@
+E:\Fasting_Application\Fasting_Application\bin\Debug\Fasting_Application.exe.config
+E:\Fasting_Application\Fasting_Application\bin\Debug\Fasting_Application.exe
+E:\Fasting_Application\Fasting_Application\bin\Debug\Fasting_Application.pdb
+E:\Fasting_Application\Fasting_Application\obj\Debug\Fasting_Application.csprojAssemblyReference.cache
+E:\Fasting_Application\Fasting_Application\obj\Debug\Fasting_Application.Form1.resources
+E:\Fasting_Application\Fasting_Application\obj\Debug\Fasting_Application.MainScreen.resources
+E:\Fasting_Application\Fasting_Application\obj\Debug\Fasting_Application.Properties.Resources.resources
+E:\Fasting_Application\Fasting_Application\obj\Debug\Fasting_Application.csproj.GenerateResource.cache
+E:\Fasting_Application\Fasting_Application\obj\Debug\Fasting_Application.csproj.CoreCompileInputs.cache
+E:\Fasting_Application\Fasting_Application\obj\Debug\Fasting_Application.exe
+E:\Fasting_Application\Fasting_Application\obj\Debug\Fasting_Application.pdb
